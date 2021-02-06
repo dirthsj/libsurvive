@@ -4,6 +4,10 @@ env:
    global:
      - VERBOSE: 1
 
+arch:
+  - amd64
+  - arm64
+
 os: linux
 dist: xenial
 
